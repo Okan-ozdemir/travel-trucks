@@ -58,6 +58,8 @@ npm run build
 
 ## Deployment
 
+Deployed on Vercel: https://travel-trucks-omega-sandy.vercel.app
+
 Ready for deployment on Vercel, Netlify, or any static hosting service.
 
 ## Project Structure
